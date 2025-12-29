@@ -16,4 +16,4 @@ I'm learning Python & Data Science.
 - Phone Usage Analysis
 
 ### Contact
-📧 tyhan@email.com
+📧 tyhanhasan@gmail.com
